@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CreateConfigurableProductWithColorAttribute",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "CreateConfigurableProductWithColorAttribute",
+    "authors": [
+    {
+        "name": "Rajesh",
+        "email": "rajeshn@thylaksoft.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
